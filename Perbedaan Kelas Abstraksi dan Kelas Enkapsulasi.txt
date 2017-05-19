@@ -1,0 +1,4 @@
+Perbedaan Kelas Abstraksi dan Kelas Enkapsulasi
+- method pada kelas abstraksi harus semuanya di panggil pada kelas turunannya
+- sedangkan Enkapsulasi itu tidak perlu
+- Enkapsulasi itu hanya menampilkan proses sesuai apa yang kita butuhkan 
